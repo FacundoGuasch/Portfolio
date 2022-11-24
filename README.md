@@ -38,3 +38,4 @@ Puedes comentar algunas de las herramientas que manejas vinculadas al testing de
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1UNgHUUo2R54lE5uQCYKkdwj1PbF_pNzT/edit#gid=809357431)
   * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1DSO1yWZ1ivGlQsdfaT0GQNc2cHUKfufx/edit#gid=1289981371)
   * [Informe de pruebas](https://docs.google.com/document/d/1fXBtjttj-X7YJgUpU263W3_HgTROJZlq/edit)
+* [Proyectos de backend and apis] (https://github.com/FacundoGuasch/Free-code-apis-and-projects)
