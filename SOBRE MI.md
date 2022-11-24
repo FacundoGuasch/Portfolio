@@ -2,6 +2,10 @@
 ## Sobre mí
  Soy una persona autonoma con facilidad para aprender. Me interesan los puestos de trabajo que me permitan trabajar en equipo y continuar desarrollandome tanto personal como profesionalmente en el area IT.
 
+## Linkedin profile and web page
+* [Linkedin profile](https://www.linkedin.com/in/fguaschprofile/)
+* [Web page](https://facundoguasch.github.io/Portfolio/)
+
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
